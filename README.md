@@ -118,14 +118,16 @@ Pet360/
     └── diagrams/
 ```
 
-## Team
+
+## Team Members
 
 | Role | Name |
 |---|---|
-| Team member | Seeman Ali |
-| Team member | Sami Ullah |
-| Team member / Lead Frontend Developer & Technical Documentation Specialist | Malik Moiz Ahmad Awan |
-| Project supervisor | Dr Umar Shoaib |
+| Project Supervisor | Dr Umar Shoaib |
+| Lead Frontend Developer & Technical Documentation Specialist | Malik Moiz Ahmad Awan |
+| Lead Backend Developer & AI Integration | Seeman Ali |
+| UI/UX Designer | Sami Ullah |
+
 
 ## How to explore this repository
 
