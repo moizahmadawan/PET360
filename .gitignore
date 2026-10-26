@@ -1,0 +1,27 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*service-account*.json
+firebase-adminsdk*.json
+credentials.json
+secrets/
+private/
+
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Build outputs and dependencies (not expected in this documentation-only repository)
+node_modules/
+dist/
+build/
+coverage/
+.expo/
+android/
+ios/
