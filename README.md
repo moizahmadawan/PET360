@@ -6,7 +6,6 @@
 
 
 
-
 <p align="center">
   <strong>Your pet, Our care.</strong><br>
   A mobile-first Final Year Project concept for connected, everyday pet care.
